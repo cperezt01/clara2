@@ -1,0 +1,28 @@
+th:hover{
+	background-color: gray;
+	cursor: pointer;   
+}
+th, td{
+	border:solid 1px black;
+	padding:5px;
+}
+body{
+	background:rgb(240,180,195);
+}
+.centrado{
+	text-align:center; 
+}
+footer{
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color:rgb(240,180,195);
+	color: white;
+	text-align: center;
+	font-family:monospace;
+}
+h1{
+font-family:cursive;
+}
+
